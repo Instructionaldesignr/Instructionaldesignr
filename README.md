@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Instructionaldesignr
+- 👀 I’m interested in learning how to use github to connect with other github users
+- 📫 You can always reach me at instructionaldesignr@gmail.com 
